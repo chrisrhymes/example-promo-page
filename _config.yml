@@ -22,7 +22,7 @@ title: Example Landing Page
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   An example landing page built using Bulma Clean Theme
-baseurl: "/example-landing-page" # the subpath of your site, e.g. /blog
+baseurl: "/example-promo-page" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

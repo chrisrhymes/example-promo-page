@@ -29,6 +29,6 @@ For more information, take a look at his website, [csrhymes.com](https://www.csr
 
 ### Example Landing Page
 
-This is an example landing page created with [Bulma Clean Theme](https://github.com/chrisrhymes/bulma-clean-theme).
+This is an example landing page created with [Bulma Clean Theme](https://github.com/chrisrhymes/bulma-clean-theme). It has been designed as a starting point for you to create your own promotion page for your book.
 
-Check out the documentation for guidance on getting started creating your own landing page for your books.
+Check out the [readme](https://github.com/chrisrhymes/example-promo-page/blob/main/README.md) for guidance on getting started creating your own landing page for your books.
