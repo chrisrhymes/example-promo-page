@@ -1,0 +1,12 @@
+- name: Mr E Xample
+  rating: 4
+  title: Great product, highly recommended
+  date: 2024-06-11
+  description: >
+    Really enjoyed the book! Would recommend
+- name: Mrs R E View
+  rating: 5
+  title: Nice, really liked this
+  date: 2024-06-10
+  description: >
+    Enjoyed the story.
